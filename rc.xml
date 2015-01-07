@@ -461,6 +461,7 @@
       </action>
     </keybind>
     
+    <!-- Keybindings for controlling gmusicbrowser -->    
     <keybind key="C-S-Space">
       <action name="Execute">
         <startupnotify>
