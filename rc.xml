@@ -461,7 +461,7 @@
       </action>
     </keybind>
     
-    <keybind key="C-S-space">
+    <keybind key="C-S-Space">
       <action name="Execute">
         <startupnotify>
           <enabled>true</enabled>
@@ -470,7 +470,7 @@
       </action>
     </keybind>
 
-    <keybind key="C-S-left">
+    <keybind key="C-S-Left">
       <action name="Execute">
         <startupnotify>
           <enabled>true</enabled>
@@ -479,7 +479,7 @@
       </action>
     </keybind>
 
-    <keybind key="C-S-right">
+    <keybind key="C-S-Right">
       <action name="Execute">
         <startupnotify>
           <enabled>true</enabled>
